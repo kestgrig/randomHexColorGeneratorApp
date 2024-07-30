@@ -1,0 +1,16 @@
+{
+  "name": "dom",
+  "version": "1.0.0",
+  "description": "![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)\r ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)\r ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --host=localhost --port=5020",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
