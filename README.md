@@ -17,7 +17,8 @@ Site published at: https://github.com/kestgrig/randomHexColorGeneratorApp
 ## 🎯 Project features/goals
 
 -   Github pages
--
+-   CSS design
+-   JavaScript
 
 ## 🧰 Getting Started
 
