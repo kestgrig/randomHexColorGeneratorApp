@@ -1,5 +1,5 @@
 {
-  "name": "dom",
+  "name": "randomHexColorGeneratorApp",
   "version": "1.0.0",
   "description": "![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)\r ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)\r ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)",
   "main": "index.js",

@@ -20,6 +20,7 @@ Site published at: https://github.com/kestgrig/randomHexColorGeneratorApp
 -   DOM
 -   CSS design
 -   Generate random color
+-   JavaScript
 
 ## 🧰 Getting Started
 
